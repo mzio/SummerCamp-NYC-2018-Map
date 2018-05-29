@@ -114,9 +114,9 @@ var options = [
         name: "VAL", 
         defaultVal: "Select from", 
         choices: [
-            {value: "SIZE_EVENT_SIZE_LARGE", text: "LARGE"},
-            {value: "SIZE_EVENT_SIZE_MEDIUM", text: "MEDIUM"},
-            {value: "SIZE_EVENT_SIZE_SMALL", text: "SMALL"},
+            {value: "SIZE_EVENT_SIZE_LARGE", text: "Large"},
+            {value: "SIZE_EVENT_SIZE_MEDIUM", text: "Medium"},
+            {value: "SIZE_EVENT_SIZE_SMALL", text: "Small"},
         ]
     },
     {
@@ -124,12 +124,12 @@ var options = [
         name: "VAL", 
         defaultVal: "Select from", 
         choices: [
-            {value: "TYPE_EVENT_PREF_RESTAURANTS", text: "RESTAURANTS"},
-            {value: "TYPE_EVENT_PREF_BARS", text: "BARS"},
-            {value: "TYPE_EVENT_PREF_MUSEUMS", text: "MUSEUMS"},
-            {value: "TYPE_EVENT_PREF_MUSIC", text: "MUSIC"},
-            {value: "TYPE_EVENT_PREF_TOURIST_SPOTS", text: "TOURIST_SPOTS"},
-            {value: "TYPE_EVENT_PREF_HOUSE_PARTIES", text: "HOUSE_PARTIES"}
+            {value: "TYPE_EVENT_PREF_RESTAURANTS", text: "Restaurants"},
+            {value: "TYPE_EVENT_PREF_BARS", text: "Bars"},
+            {value: "TYPE_EVENT_PREF_MUSEUMS", text: "Museums"},
+            {value: "TYPE_EVENT_PREF_MUSIC", text: "Music"},
+            {value: "TYPE_EVENT_PREF_TOURIST_SPOTS", text: "Tourist Spots"},
+            {value: "TYPE_EVENT_PREF_HOUSE_PARTIES", text: "House Parties"}
         ]
     }
 ];
@@ -278,12 +278,20 @@ map.on("click", "json-tracts-fill", function(x) {
             .setHTML(description)
             .addTo(map);
 })
+// map.addControl(new mapboxgl.NavigationControl());
 
-map.dragPan.disable();
+// map.dragPan.disable();
 map.scrollZoom.disable();
+document.getElementById('reset-view').addEventListener('click', function () {
+    map.flyTo({
+        center: [-74.0072542, 40.772178],
+        zoom: 11.45,
+        pitch: 0
+    });
+});
 map.dragRotate.disable();
 map.touchZoomRotate.disableRotation();
-map.doubleClickZoom.disable()
+// map.doubleClickZoom.disable()
 
 var updateScale = function() {
   var values = census_tracts_all.features.map(tract => tract.properties[activeType])
