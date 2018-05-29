@@ -283,6 +283,7 @@ map.dragPan.disable();
 map.scrollZoom.disable();
 map.dragRotate.disable();
 map.touchZoomRotate.disableRotation();
+map.doubleClickZoom.disable()
 
 var updateScale = function() {
   var values = census_tracts_all.features.map(tract => tract.properties[activeType])
