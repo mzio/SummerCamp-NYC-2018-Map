@@ -106,7 +106,6 @@ var options = [
             {value: "FREQUENCY_Biweekly", text: "Biweekly"},
             {value: "FREQUENCY_Weekly", text: "Weekly"},
             {value: "FREQUENCY_Monthly", text: "Monthly"},
-            {value: "FREQUENCY_Other", text: "Other"},
         ]
     },
     {
