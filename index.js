@@ -103,8 +103,8 @@ var options = [
         name: "VAL", 
         defaultVal: "Select from", 
         choices: [
-            {value: "FREQUENCY_Biweekly", text: "Biweekly"},
             {value: "FREQUENCY_Weekly", text: "Weekly"},
+            {value: "FREQUENCY_Biweekly", text: "Biweekly"},
             {value: "FREQUENCY_Monthly", text: "Monthly"},
         ]
     },
