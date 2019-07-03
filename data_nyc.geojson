@@ -1,0 +1,3381 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Christine",
+        "LAST_NAME": "Zhang",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "Computer Science",
+        "GRAD_YEAR": 2018,
+        "WORKPLACE": "Goldman Sachs Headquarters",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Investment Banking Analyst",
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144968,
+          40.7148544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Samuel",
+        "LAST_NAME": "Lam",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Statistics",
+        "GRAD_YEAR": 2018,
+        "WORKPLACE": "Uber Technologies",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Engineer",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0064938,
+          40.7525708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Shivani",
+        "LAST_NAME": "Aggarwal",
+        "CONCENTRATION": "Integrative Biology",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "None",
+        "ROLE": null,
+        "TITLE": null,
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Daran",
+        "LAST_NAME": "Zhao",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Statistics",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "Bank of America",
+        "ROLE": "Software Engineering",
+        "TITLE": null,
+        "FREQUENCY": null,
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9555384,
+          40.7792558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Claire",
+        "LAST_NAME": "Spackman",
+        "CONCENTRATION": "Psychology",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Stripes Group",
+        "ROLE": "Venture Capital",
+        "TITLE": "Investment Analyst",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0064174,
+          40.7402749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Susan",
+        "LAST_NAME": "Xu",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Statistics",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Google",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Engineering Intern",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003247,
+          40.7413281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Emily",
+        "LAST_NAME": "Jia",
+        "CONCENTRATION": "Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Citadel",
+        "ROLE": "Finance / Consulting",
+        "TITLE": null,
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9703194,
+          40.7584774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Tovly",
+        "LAST_NAME": "Deutsch",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Language and Lingustic Theory",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Etsy",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Engineering Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9881456,
+          40.70058239999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Amadou",
+        "LAST_NAME": "Camara",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Sociology",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Facebook",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Engineering Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99136659999999,
+          40.7308197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Magdalena",
+        "LAST_NAME": "Seol",
+        "CONCENTRATION": "Social/Inclusive Finance",
+        "SECONDARY": "Business and government ",
+        "GRAD_YEAR": 2017,
+        "WORKPLACE": "IFC",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Senior Advisor/Consultant",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0016722,
+          40.7312056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Matthew",
+        "LAST_NAME": "Leifer",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "AQR Capital Management",
+        "ROLE": "Finance / Consulting",
+        "TITLE": null,
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96915179999999,
+          40.7586871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Sidney",
+        "LAST_NAME": "Li",
+        "CONCENTRATION": "Social Studies",
+        "SECONDARY": "Economics",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "goetzpartners",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Management Consulting Summer Analyst",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01181869999999,
+          40.7134413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Francisco",
+        "LAST_NAME": "Rivera",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "None",
+        "ROLE": null,
+        "TITLE": null,
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Andreas",
+        "LAST_NAME": "Vandris",
+        "CONCENTRATION": "Statistics",
+        "SECONDARY": "Computer Science",
+        "GRAD_YEAR": 2018,
+        "WORKPLACE": "None",
+        "ROLE": "Finance / Consulting",
+        "TITLE": null,
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Luke",
+        "LAST_NAME": "Melas-Kyriazi",
+        "CONCENTRATION": "Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Jane Street Capital",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Quantitative Trading Intern",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01556769999999,
+          40.7141805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Daniel",
+        "LAST_NAME": "Giebisch",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Music",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "CTRL-Labs",
+        "ROLE": "Data Science / ML / AI",
+        "TITLE": "Research Engineering Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9849493,
+          40.7504874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Caitlin",
+        "LAST_NAME": "Ner",
+        "CONCENTRATION": "Economics",
+        "SECONDARY": "Environmental Science and Public Policy",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "BlackRock",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Alternative Investments Analyst",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9739555,
+          40.7589234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Michael",
+        "LAST_NAME": "Opara",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Goldman Sachs Headquarters",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Quant/Strat",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144968,
+          40.7148544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Tony",
+        "LAST_NAME": "Lin",
+        "CONCENTRATION": "HDRB",
+        "SECONDARY": "Economics",
+        "GRAD_YEAR": 2018,
+        "WORKPLACE": "Roivant",
+        "ROLE": "Business / Marketing / Ops / Sales",
+        "TITLE": "Rotational Analyst",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99333399999999,
+          40.7544077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Jessica",
+        "LAST_NAME": "Huang",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Statistics",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Goldman Sachs Headquarters",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Operational Risk Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144968,
+          40.7148544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Catherine",
+        "LAST_NAME": "Zheng",
+        "CONCENTRATION": "Social Studies",
+        "SECONDARY": "Psychology",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Bridgewater",
+        "ROLE": "Investment Associate Intern ",
+        "TITLE": "Investment Associate Intern ",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9362586,
+          40.727485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Jamie",
+        "LAST_NAME": "Hawkins",
+        "CONCENTRATION": "Economics",
+        "SECONDARY": "Philosophy",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Bank of America",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Global Wealth & Investment Management Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9555384,
+          40.7792558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Michael",
+        "LAST_NAME": "Jasper",
+        "CONCENTRATION": "Social Studies",
+        "SECONDARY": "Computer Science",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Google",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Engineering Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003247,
+          40.7413281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Chloe",
+        "LAST_NAME": "Yu",
+        "CONCENTRATION": "History and Literature",
+        "SECONDARY": "Computer Science",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "None",
+        "ROLE": null,
+        "TITLE": null,
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Kevin",
+        "LAST_NAME": "Sadhu",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Economics",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Goldman Sachs Headquarters",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Summer Analyst ",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144968,
+          40.7148544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Cindy",
+        "LAST_NAME": "Jung",
+        "CONCENTRATION": "History",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Manhattan Insititute for Policy Research",
+        "ROLE": "Communications",
+        "TITLE": "Communications Intern ",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97730179999999,
+          40.7542642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Sarah",
+        "LAST_NAME": "Zeng",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "None",
+        "ROLE": null,
+        "TITLE": null,
+        "FREQUENCY": null,
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Kevin",
+        "LAST_NAME": "Fei",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Facebook",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Engineering Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99136659999999,
+          40.7308197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Meredith",
+        "LAST_NAME": "Pong",
+        "CONCENTRATION": "Sociology",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Walmart Start Up",
+        "ROLE": "Business / Marketing / Ops / Sales",
+        "TITLE": "Marketing Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0138716,
+          40.8142465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Matthew",
+        "LAST_NAME": "Beatty",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2018,
+        "WORKPLACE": "None",
+        "ROLE": "Software Engineering",
+        "TITLE": null,
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Ashley",
+        "LAST_NAME": "Gong",
+        "CONCENTRATION": "English",
+        "SECONDARY": "Economics",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "New York City Economic Development Corporation",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Strategy Intern",
+        "FREQUENCY": null,
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00661769999999,
+          40.7087822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Cheyenne",
+        "LAST_NAME": "Brooks",
+        "CONCENTRATION": "Neurobiology",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "FUR ",
+        "ROLE": "Business / Marketing / Ops / Sales",
+        "TITLE": null,
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9920908,
+          40.7457899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Yudi",
+        "LAST_NAME": "Wang",
+        "CONCENTRATION": "Computational Science",
+        "SECONDARY": "Economics",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "None",
+        "ROLE": "Data Science / ML / AI",
+        "TITLE": "Data Analyst ",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Alperen",
+        "LAST_NAME": "Degirmenci",
+        "CONCENTRATION": "EE",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2018,
+        "WORKPLACE": "NVIDIA",
+        "ROLE": "Software Engineering",
+        "TITLE": "Senior R&D Engineer",
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Maria",
+        "LAST_NAME": "Zlatkova",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Global Health & Health Policy",
+        "GRAD_YEAR": 2018,
+        "WORKPLACE": "Facebook",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Engineer",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99136659999999,
+          40.7308197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Madina",
+        "LAST_NAME": "Radjabova",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Bloomberg",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Engineering Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96800449999999,
+          40.7617491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Paul",
+        "LAST_NAME": "Nebres",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Cook Pine Capital",
+        "ROLE": "Finance / Consulting",
+        "TITLE": null,
+        "FREQUENCY": null,
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Derek",
+        "LAST_NAME": "Peng",
+        "CONCENTRATION": "Economics",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Citi ",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Investment Banking Summer Analyst ",
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974221,
+          40.783304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Shira",
+        "LAST_NAME": "Li",
+        "CONCENTRATION": "Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Goldman Sachs Headquarters",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Securities Intern",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144968,
+          40.7148544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Menaka",
+        "LAST_NAME": "Narayanan",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Global Health and Health Policy",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "LinkedIn",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Engineering Intern",
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9855625,
+          40.7482929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Kemi",
+        "LAST_NAME": "Akenzua",
+        "CONCENTRATION": "History and Science: Technology, Information, and Society ",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Bank of America",
+        "ROLE": "Business / Marketing / Ops / Sales",
+        "TITLE": null,
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9555384,
+          40.7792558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Emily",
+        "LAST_NAME": "Choi",
+        "CONCENTRATION": "History and Literature",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "None",
+        "ROLE": "Business / Marketing / Ops / Sales",
+        "TITLE": null,
+        "FREQUENCY": null,
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Anya",
+        "LAST_NAME": "Zhang",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Facebook",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Engineering Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99136659999999,
+          40.7308197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Grace",
+        "LAST_NAME": "Chen",
+        "CONCENTRATION": "Statistics",
+        "SECONDARY": "GHHP",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Goldman Sachs Headquarters",
+        "ROLE": "Finance / Consulting",
+        "TITLE": null,
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144968,
+          40.7148544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Claire",
+        "LAST_NAME": "Burch",
+        "CONCENTRATION": "Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Bridgewater",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Investment Associate Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9362586,
+          40.727485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Romil",
+        "LAST_NAME": "Sirohi",
+        "CONCENTRATION": "Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "Salesforce",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Engineering Intern",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9732568,
+          40.7517134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Sarah",
+        "LAST_NAME": "Shamoon",
+        "CONCENTRATION": "Social Studies/Hist & Lit",
+        "SECONDARY": "TDM",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "RedHorse Strategies ",
+        "ROLE": "Campaign work including marketing, polling, web content",
+        "TITLE": null,
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9893866,
+          40.7028278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Promit",
+        "LAST_NAME": "Ghosh",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2018,
+        "WORKPLACE": "Capital One",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Developer",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976354,
+          40.788941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Joshua",
+        "LAST_NAME": "Sopher",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "History",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Goldman Sachs Headquarters",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Summer Analyst",
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144968,
+          40.7148544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Victor",
+        "LAST_NAME": "Yang",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Psychology",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "May 14th - end of July",
+        "ROLE": "Software Engineering",
+        "TITLE": "Applications Development Intern",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Caitlin ",
+        "LAST_NAME": "Jones",
+        "CONCENTRATION": "Hist and Lit",
+        "SECONDARY": "VES",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "Art Gallery/ Museum",
+        "ROLE": "intern",
+        "TITLE": null,
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9587983,
+          40.8170037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Jenny",
+        "LAST_NAME": "Huang",
+        "CONCENTRATION": "Statistics and Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Google",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Engineering Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003247,
+          40.7413281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Elizabeth",
+        "LAST_NAME": "Healey",
+        "CONCENTRATION": "Electrical Engineering",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "D.E. Shaw",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Generalist Intern",
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9820345,
+          40.7568777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Allie",
+        "LAST_NAME": "Quan",
+        "CONCENTRATION": "Psychology",
+        "SECONDARY": "East Asian Studies",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "None",
+        "ROLE": null,
+        "TITLE": null,
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Zaria",
+        "LAST_NAME": "Smalls",
+        "CONCENTRATION": "Special Concentration: Design Engineering",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Ford Motor Company",
+        "ROLE": "PM / Product Design",
+        "TITLE": "Product Design Engineer",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0622174,
+          40.7747474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Francisco",
+        "LAST_NAME": "Trujillo",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Handy",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Development Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.906362,
+          40.742174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Melia",
+        "LAST_NAME": "Henderson ",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "BCG",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Consultant ",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00087959999999,
+          40.7528919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Vincent",
+        "LAST_NAME": "Li",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Economics",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "IBM",
+        "ROLE": "Research and Software Engineering",
+        "TITLE": "Research Summer Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98540969999999,
+          40.7434669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Michael",
+        "LAST_NAME": "Wornow",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Statistics",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Goldman Sachs Headquarters",
+        "ROLE": "Finance / Consulting",
+        "TITLE": null,
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144968,
+          40.7148544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Casey",
+        "LAST_NAME": "Zhang",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "Statistics",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "D. E. Shaw Research",
+        "ROLE": "Data Science / ML / AI",
+        "TITLE": "Chemistry Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9820345,
+          40.7568777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Michael",
+        "LAST_NAME": "Zhang",
+        "CONCENTRATION": "Statistics and Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "DRW",
+        "ROLE": "Data Science / ML / AI",
+        "TITLE": "Quant Research Intern",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.011926,
+          40.7134088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Luke",
+        "LAST_NAME": "Minton",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "Government",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Goldman Sachs Headquarters",
+        "ROLE": "Finance / Consulting",
+        "TITLE": null,
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144968,
+          40.7148544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Arnav",
+        "LAST_NAME": "Agrawal",
+        "CONCENTRATION": "Economics",
+        "SECONDARY": "Computer Science",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "None",
+        "ROLE": "Finance / Consulting",
+        "TITLE": null,
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Richard",
+        "LAST_NAME": "Yarrow",
+        "CONCENTRATION": "History and Philosophy",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "None",
+        "ROLE": null,
+        "TITLE": null,
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Cameron",
+        "LAST_NAME": "Akker",
+        "CONCENTRATION": "Electrical Engineering",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Moved (Abode)",
+        "ROLE": "PM / Product Design",
+        "TITLE": "Digital Product Manager",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.008988,
+          40.710521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Erick",
+        "LAST_NAME": "Meza",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Morgan Stanley",
+        "ROLE": "Finance / Consulting",
+        "TITLE": null,
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97287639999999,
+          40.7622598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Alexandra",
+        "LAST_NAME": "Zaoui",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "None",
+        "ROLE": null,
+        "TITLE": null,
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Sarah ",
+        "LAST_NAME": "Ascherman ",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Goldman Sachs Headquarters",
+        "ROLE": "Finance / Consulting",
+        "TITLE": null,
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144968,
+          40.7148544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Matthew",
+        "LAST_NAME": "Branman",
+        "CONCENTRATION": "Mechanical Engineering",
+        "SECONDARY": "Economics",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Authentic Brands Group",
+        "ROLE": "Mergers & Acquisition ",
+        "TITLE": "Mergers & Acquisition Analyst Intern ",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9875569,
+          40.7542068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Eric",
+        "LAST_NAME": "Wasserman",
+        "CONCENTRATION": "Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "RBC",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Trading Intern",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9434247,
+          40.749313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Karen",
+        "LAST_NAME": "Li",
+        "CONCENTRATION": "Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2018,
+        "WORKPLACE": "None",
+        "ROLE": "Business / Marketing / Ops / Sales",
+        "TITLE": null,
+        "FREQUENCY": null,
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Kelsang",
+        "LAST_NAME": "Donyo",
+        "CONCENTRATION": "Statistics",
+        "SECONDARY": "Economics",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Societe Generale",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Investment Banking Intern",
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97729799999999,
+          40.758995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "George",
+        "LAST_NAME": "Han",
+        "CONCENTRATION": "Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "None",
+        "ROLE": null,
+        "TITLE": null,
+        "FREQUENCY": null,
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Kristine",
+        "LAST_NAME": "Falck",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Argand Partners",
+        "ROLE": "Finance / Consulting",
+        "TITLE": null,
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9828489,
+          40.755606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Akash",
+        "LAST_NAME": "Bagaria",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "Chinese Language Citation",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "Ernst & Young",
+        "ROLE": "Finance / Consulting",
+        "TITLE": null,
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9911436,
+          40.7343607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Auriel",
+        "LAST_NAME": "Wright",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Goldman Sachs Headquarters",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Sales and Trading Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144968,
+          40.7148544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Katherine",
+        "LAST_NAME": "Binney",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Two Sigma",
+        "ROLE": "Software Engineering",
+        "TITLE": null,
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0044113,
+          40.7232292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Manav",
+        "LAST_NAME": "Khandelwal",
+        "CONCENTRATION": "Statistics and Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "General Atlantic",
+        "ROLE": "Venture Capital",
+        "TITLE": "Growth Equity Summer Analyst",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9736745,
+          40.7589832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Lana",
+        "LAST_NAME": "Gorlinski",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Bridgewater",
+        "ROLE": "Software Engineering",
+        "TITLE": "Technology Associate",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9362586,
+          40.727485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Rebecca",
+        "LAST_NAME": "Chen",
+        "CONCENTRATION": "Economics",
+        "SECONDARY": "Computer Science",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Goldman Sachs Headquarters",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Summer Analyst",
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144968,
+          40.7148544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Sung Kwang",
+        "LAST_NAME": "Oh",
+        "CONCENTRATION": "Government/Social Studies and VES",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "PA Democratic Party",
+        "ROLE": null,
+        "TITLE": null,
+        "FREQUENCY": null,
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Aashay",
+        "LAST_NAME": "Sanghvi",
+        "CONCENTRATION": "Social Studies",
+        "SECONDARY": "Computer Science",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Notation Capital (notation.vc)",
+        "ROLE": "Venture Capital",
+        "TITLE": null,
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Shawn",
+        "LAST_NAME": "Wallace",
+        "CONCENTRATION": "EAS",
+        "SECONDARY": "Economics",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Citibank",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Equity Capital Markets Summer Analyst",
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974221,
+          40.783304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Isra",
+        "LAST_NAME": "Hamdi",
+        "CONCENTRATION": "Human Developmental and Regenerative Biology ",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "NYU ",
+        "ROLE": "Business / Marketing / Ops / Sales",
+        "TITLE": "Mindich Fellow",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9964609,
+          40.72951339999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Abdur",
+        "LAST_NAME": "Rehman",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Economics",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Ernst & Young",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Tech Advisory Program intern ",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9911436,
+          40.7343607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Xiaobi",
+        "LAST_NAME": "Pan",
+        "CONCENTRATION": "Design and Technology",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2018,
+        "WORKPLACE": "None",
+        "ROLE": "PM / Product Design",
+        "TITLE": "User Experience Designer/Product Designer",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Kush",
+        "LAST_NAME": "Sharma",
+        "CONCENTRATION": "Computational Neuroscience",
+        "SECONDARY": "Math",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Tiger Global",
+        "ROLE": "Data Science / ML / AI",
+        "TITLE": null,
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9749113,
+          40.7636226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Ava",
+        "LAST_NAME": "Ganik",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Math",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "None",
+        "ROLE": null,
+        "TITLE": null,
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Marisa",
+        "LAST_NAME": "Trapani",
+        "CONCENTRATION": "Neurobiology",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Columbia University's Eating Disorder Clinic",
+        "ROLE": "Clinic volunteer",
+        "TITLE": null,
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9446171,
+          40.8422653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Sreya",
+        "LAST_NAME": "Vemuri",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Statistics",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Google",
+        "ROLE": "Software Engineering",
+        "TITLE": "EP Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003247,
+          40.7413281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Estefania",
+        "LAST_NAME": "Lahera",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Economics",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Google",
+        "ROLE": "Software Engineering",
+        "TITLE": "Engineering Practicum Intern",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003247,
+          40.7413281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Julia",
+        "LAST_NAME": "Martin",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Chinese",
+        "GRAD_YEAR": 2022,
+        "WORKPLACE": "Bloomberg",
+        "ROLE": "Software Engineering",
+        "TITLE": "Financial Data & Analytics Software Engineer Intern",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96800449999999,
+          40.7617491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Caroline",
+        "LAST_NAME": "Teicher",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Music",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Microsoft ",
+        "ROLE": "Software Engineering",
+        "TITLE": "software engineering intern",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9898999,
+          40.7566868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Suproteem",
+        "LAST_NAME": "Sarkar",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Mind/Brain/Behavior",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Google",
+        "ROLE": "Software Engineering",
+        "TITLE": null,
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003247,
+          40.7413281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Kelly",
+        "LAST_NAME": "Luo",
+        "CONCENTRATION": "Bioengineering",
+        "SECONDARY": "Computer Science",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "S'",
+        "ROLE": "PM / Product Design",
+        "TITLE": "Product Development Intern",
+        "FREQUENCY": null,
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.013753,
+          40.7011958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Andra",
+        "LAST_NAME": "Fehmiu",
+        "CONCENTRATION": "Applied Math",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Moon Capital ",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Summer Analyst",
+        "FREQUENCY": "Biweekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.969601,
+          40.762531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Kevin",
+        "LAST_NAME": "Stephen",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Government",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Argand Equity Partners",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "Summer Intern",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9828489,
+          40.755606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Juan",
+        "LAST_NAME": "Esteller",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Statistics",
+        "GRAD_YEAR": 2019,
+        "WORKPLACE": "Bloomberg LP",
+        "ROLE": "Software Engineering",
+        "TITLE": "Software Engineering Intern",
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96800449999999,
+          40.7617491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Danielle",
+        "LAST_NAME": "Davis",
+        "CONCENTRATION": "Physics ",
+        "SECONDARY": "Computer Science",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "None",
+        "ROLE": null,
+        "TITLE": null,
+        "FREQUENCY": null,
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Weihang",
+        "LAST_NAME": "Zhang",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "None",
+        "GRAD_YEAR": 2018,
+        "WORKPLACE": "Goldman Sachs Headquarters",
+        "ROLE": "Software Engineering",
+        "TITLE": "Summer Analyst",
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 0,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 1,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 0,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0144968,
+          40.7148544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Brendan",
+        "LAST_NAME": "Falk",
+        "CONCENTRATION": "Economics",
+        "SECONDARY": "Computer Science",
+        "GRAD_YEAR": 2020,
+        "WORKPLACE": "Blackstone Group",
+        "ROLE": "Finance / Consulting",
+        "TITLE": "2018 Summer Analyst in Hedge Fund Solutions Group",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 1,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 0,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 1,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 1,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9726262,
+          40.7581073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Nila",
+        "LAST_NAME": "Annadurai",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Statistics",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "Acord Corporation",
+        "ROLE": "Data Science / ML / AI",
+        "TITLE": "Research and Development Intern",
+        "FREQUENCY": "Weekly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 0,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 0,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 1,
+        "EVENT_PREF_TOURIST_SPOTS": 0,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778116, -73.969131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FIRST_NAME": "Bryan",
+        "LAST_NAME": "Lee",
+        "CONCENTRATION": "Computer Science",
+        "SECONDARY": "Statistics",
+        "GRAD_YEAR": 2021,
+        "WORKPLACE": "Abdiel Capital",
+        "ROLE": "Finance / Consulting",
+        "TITLE": null,
+        "FREQUENCY": "Monthly",
+        "EVENT_SIZE_LARGE": 0,
+        "EVENT_SIZE_MEDIUM": 1,
+        "EVENT_SIZE_SMALL": 1,
+        "EVENT_PREF_HIKING": 1,
+        "EVENT_PREF_RUNNING": 0,
+        "EVENT_PREF_TEAM_SPORTS": 0,
+        "EVENT_PREF_RESTAURANTS": 1,
+        "EVENT_PREF_BARS": 0,
+        "EVENT_PREF_MUSEUMS": 1,
+        "EVENT_PREF_MUSIC": 0,
+        "EVENT_PREF_TOURIST_SPOTS": 1,
+        "EVENT_PREF_HOUSE_PARTIES": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972244,
+          40.760286
+        ]
+      }
+    }
+  ]
+}
