@@ -103,10 +103,9 @@ var options = [
         name: "VAL", 
         defaultVal: "Select from", 
         choices: [
-            {value: "FREQUENCY_Biweekly", text: "Biweekly"},
             {value: "FREQUENCY_Weekly", text: "Weekly"},
+            {value: "FREQUENCY_Biweekly", text: "Biweekly"},
             {value: "FREQUENCY_Monthly", text: "Monthly"},
-            {value: "FREQUENCY_Other", text: "Other"},
         ]
     },
     {
@@ -280,7 +279,7 @@ map.on("click", "json-tracts-fill", function(x) {
 })
 // map.addControl(new mapboxgl.NavigationControl());
 
-// map.dragPan.disable();
+map.dragPan.disable();
 map.scrollZoom.disable();
 document.getElementById('reset-view').addEventListener('click', function () {
     map.flyTo({
